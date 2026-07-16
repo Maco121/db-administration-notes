@@ -1,0 +1,1401 @@
+"POOL","NAME","BYTES"
+"","buffer_cache",4043309056
+"shared pool","free memory",516894336
+"","shared_io_pool",134217728
+"shared pool","SQLA",38909264
+"shared pool","ksunfy_meta 1",26245248
+"shared pool","SO private sga",24636376
+"shared pool","KGLH0",20414376
+"shared pool","db_block_hash_buckets",16781312
+"shared pool","ASH buffers",16777216
+"large pool","free memory",16449536
+"shared pool","write state object",14263584
+"shared pool","file state object",10462704
+"shared pool","session",10052544
+"shared pool","KGLS",9641992
+"","fixed_sga",9038960
+"shared pool","row cache mutex",9019032
+"shared pool","KTI-UNDO",8424000
+"","log_buffer",7737344
+"shared pool","private strands",7630848
+"shared pool","ksipc state object",7117920
+"shared pool","VIRTUAL CIRCUITS",6440448
+"shared pool","row cache hash",6012688
+"shared pool","KGLHD",5420896
+"shared pool","KQR X PO",5419016
+"shared pool","KSRMA State Object",5341280
+"shared pool","KGLSG",5260816
+"shared pool","PLMCD",5206408
+"shared pool","obj stats allocation chun",5160960
+"shared pool","dbwriter coalesce buffer",4198400
+"shared pool","KCB Table Scan Buffer",4198400
+"shared pool","kglsim hash table bkts",4194304
+"shared pool","object queue hash buckets",4194304
+"shared pool","KSFD SGA I/O b",4190368
+"shared pool","PLDIA",3667288
+"shared pool","procs: ksunfy",3548160
+"shared pool","transaction",3230832
+"shared pool","buffer handle",3072000
+"shared pool","message pool freequeue",3051744
+"shared pool","row cache mutex versions",3006344
+"shared pool","enqueue",2383440
+"shared pool","KQR X SO",2118216
+"shared pool","KKSSP",2060448
+"shared pool","imc buf hdl",2031568
+"shared pool","parameter table block",1986152
+"shared pool","KGLDA",1970224
+"shared pool","groups_kfgbsg",1818624
+"shared pool","KSK VT POOL",1701304
+"shared pool","db_block_hash_latches",1638400
+"shared pool","kghrcx batch",1552384
+"shared pool","DML lock",1465728
+"shared pool","ksdhng: els blkrs cache",1416960
+"shared pool","ksfd SGA I/O outlier",1328000
+"shared pool","sys event stats",1227520
+"shared pool","dbktb: trace buffer",1196032
+"shared pool","ksu:stats_freelist",1106000
+"shared pool","simulator hash buckets",1081344
+"shared pool","IM extent map",1049064
+"shared pool","Inmemory extension anchor",1048608
+"shared pool","KSRMA Allocated Rlogs",1048576
+"shared pool","KSRMA Free Rlogs",1048576
+"shared pool","SWRF Metric CHBs",1014944
+"shared pool","SYSTEM PARAMETERS",1006688
+"shared pool","db_files",970112
+"shared pool","simulator latch/bucket st",950272
+"shared pool","Block List",805376
+"shared pool","prmtzdini tz region",801416
+"shared pool","ksfs stat structs",794112
+"shared pool","KEWS sesstat values",779328
+"shared pool","enqueue resources",775920
+"shared pool","kcbi io desc slot",770048
+"shared pool","KTSL subheap",699296
+"shared pool","klcslo",681960
+"shared pool","SQLP",675464
+"shared pool","Space Background Task Des",655360
+"shared pool","lock state hash table",647680
+"shared pool","LRMPD SGA Table",604576
+"shared pool","logwriteds",590720
+"shared pool","modification hash table c",589824
+"shared pool","KXDBIO state obj",587688
+"shared pool","krdrsb read violation arr",560000
+"shared pool","KOKTD",558600
+"shared pool","615.kggec",549280
+"shared pool","txn jrnl",549032
+"shared pool","FileIdentificatonBlock",542104
+"shared pool","SpaceReuse Stats",526640
+"shared pool","KGNFS scontext",525920
+"shared pool","ktsimaCtx",524448
+"shared pool","file queue buckets",524288
+"shared pool","ksv slave class",519912
+"shared pool","parameter handle",507472
+"shared pool","max allowable # log files",506400
+"shared pool","dbgefgHtAddSK-1",482264
+"shared pool","KGLA",468640
+"shared pool","ksns_obj",467480
+"shared pool","alter system errs: kspnfy",466944
+"shared pool","KSK OSS PLAN ENTRIES",409904
+"shared pool","parameter string values",396792
+"shared pool","ksfs mnt structs",360960
+"shared pool","SWRF Metric Eidbuf",359400
+"shared pool","kglsim object batch",355488
+"shared pool","branch",353056
+"shared pool","Temporary Tables State Ob",342968
+"shared pool","kfklsodtab",339824
+"shared pool","KSRMA anchor",339720
+"shared pool","resize request state obje",339200
+"shared pool","NETWORK BUFFER",333320
+"shared pool","pso tbs: ksunfy",332800
+"shared pool","KSKQ SGA",332144
+"large pool","PX msg pool",327680
+"shared pool","latch where stats",310784
+"shared pool","KSK PDB SGA stats",299008
+"shared pool","kglsim heap",297600
+"shared pool","channel handle",294880
+"shared pool","ksdhng: el wtr cache",283392
+"shared pool","work area table entry",265856
+"shared pool","FileOpenConsolidatedBlock",265488
+"shared pool","KESTB existence bitvec",262144
+"shared pool","dirty object counts array",262144
+"shared pool","change tracking recovery ",262144
+"shared pool","object temp hash buckets",262144
+"shared pool","kxfpdp pointers",262136
+"shared pool","TXN TABLE SEGMENTED ARRAY",251920
+"shared pool","kjcipctx SO freelist",250880
+"shared pool","ksuloi: long op statistic",249856
+"shared pool","constraints",246360
+"shared pool","ufgtab_kfmdsg",244176
+"shared pool","dgtab_kfmdsg",244176
+"shared pool","KGSK scheduler",234888
+"shared pool","object queue header free ",233856
+"shared pool","undo temp",232592
+"shared pool","HM Wt Evt Stats Array",230280
+"shared pool","UNDO INFO SEGMENTED ARRAY",228952
+"shared pool","BRANCH TABLE SEGMENTED AR",226192
+"shared pool","IM segment hash table glo",221432
+"shared pool","IM segment hash table",221432
+"shared pool","KYWM RPLY CROSS INSTANCE",212992
+"shared pool","MGA service",208784
+"shared pool","allocate segment hash tab",204800
+"shared pool","SEQ S.O.",196800
+"shared pool","ksipc_hashs",196424
+"shared pool","txncallback",194128
+"shared pool","KGX",190584
+"shared pool","object temp hash table la",188416
+"shared pool","Kernel Component SGA I/O ",186000
+"shared pool","HM Lcl Sess Info",173656
+"shared pool","6160.kgght",167160
+"shared pool","6162.kgght",167160
+"shared pool","6161.kgght",167160
+"shared pool","Global dictionary read-wr",163840
+"shared pool","messages",163840
+"shared pool","Global dictionary parent ",163840
+"shared pool","ktimextht latches",163840
+"shared pool","kmgsb circular statistics",162560
+"shared pool","per_pg_set_descriptor_arr",160704
+"shared pool","ASM connection state",155312
+"shared pool","Nettimeout Histogram",151280
+"shared pool","Inmemory xmem 64KB anchor",147640
+"shared pool","Inmemory xmem 1MB anchor",147640
+"shared pool","Inmemory 64KB anchor",147640
+"shared pool","Inmemory 1MB anchor",147640
+"shared pool","ltxid: ltxid context",141696
+"shared pool","kghx free lists",136368
+"shared pool","L2 file map array",134160
+"shared pool","ksns pdb hdl tab",131136
+"shared pool","kglsim timestamps",131072
+"shared pool","KSIPC ASPC Instance Addre",131072
+"shared pool","kglsim Java timestamps",131072
+"shared pool","kglsim per-gran bkt",129600
+"shared pool","kglsim Java per-gran bkt",129600
+"shared pool","ksp master psta",129528
+"shared pool","call",127112
+"shared pool","kebm test replies",122880
+"shared pool","External table user state",116136
+"shared pool","event descriptor table",107616
+"shared pool","KCB cacherm",106576
+"shared pool","RTA boundary array",105600
+"shared pool","KGSK sga",104624
+"shared pool","KLCS",103648
+"shared pool","KFK idtab_kfksga",101288
+"shared pool","network connections",100080
+"shared pool","PRTMV",98544
+"shared pool","dbktb: trace pool",97280
+"shared pool","enqueue_hash",96144
+"shared pool","locator state object",94536
+"shared pool","process group array",91792
+"shared pool","ksim cached group entry l",90112
+"shared pool","ASM rcl group",87464
+"shared pool","PRTDS",86448
+"shared pool","osp allocation",84672
+"shared pool","ksmtimcronsg",83968
+"shared pool","ksmtimcrwnsg",83968
+"shared pool","ksbxic obj",83632
+"shared pool","KCB where statistics arra",81984
+"shared pool","kgnfs stats array",81960
+"shared pool","AQ Message cache driver s",81440
+"shared pool","kghrcx RO batches",81120
+"shared pool","dummy",80776
+"shared pool","ksfd: components i/o stat",80640
+"shared pool","HM SGA context",78816
+"shared pool","dsktab_kfgsg",78248
+"shared pool","sga latch where stats",77888
+"shared pool","pid",77856
+"shared pool","KTC latch subh",75040
+"shared pool","KTG hash buckets",74784
+"shared pool","KFD extent enqueue obj",73128
+"shared pool","KSI ENQUEUES",72416
+"shared pool","trace events array",72000
+"shared pool","V$DATAGUARD_STATUS array",71680
+"shared pool","ksgl handle",67616
+"shared pool","ksipc shared nothing stat",67616
+"shared pool","ksws service events",67584
+"shared pool","KSKQ SGA:kskqlmspld",66728
+"shared pool","ksuprcwt",66560
+"shared pool","ksuprlwt",66560
+"shared pool","channel context areas",66432
+"shared pool","KTSJ state object",65600
+"shared pool","write info array",65536
+"shared pool","current pin time statisti",65536
+"shared pool","ktimextht recovery area",65536
+"shared pool","qmps connections",65280
+"shared pool","post/wait queues",64128
+"shared pool","Saved job ids",64000
+"shared pool","AQ Propagation Scheduling",64000
+"shared pool","Managed Standby Process A",63488
+"shared pool","latch descriptor state",62912
+"shared pool","sys event stats for Other",61376
+"shared pool","UNDO STAT INFO",59904
+"shared pool","time-based incremental me",57616
+"shared pool","KSIPC ASPC State Object",57376
+"shared pool","ksgl SSO",57376
+"shared pool","AQ: Master/Slave state ob",55440
+"shared pool","object queue header hash ",55296
+"shared pool","PLS SGA hp",53160
+"shared pool","sctx",51648
+"shared pool","buffer handles",51224
+"shared pool","dbkea msg body",51200
+"shared pool","iosts_kfmdsg",51200
+"shared pool","dbke_incid_cache_init",51200
+"shared pool","KCN hash latches",51200
+"shared pool","imc-txn-wrk",50160
+"shared pool","IMC extent map",50088
+"shared pool","hash bucket array allocat",49152
+"shared pool","ksdhng: fblkrs cache",47872
+"shared pool","ksusessnetstat",47616
+"shared pool","DTP proc structure alloc",47464
+"shared pool","AQ: Non Durable Sub state",47232
+"shared pool","instance cnxn information",47232
+"shared pool","kswl ctxt",47136
+"shared pool","kqf runtime defined table",47136
+"shared pool","KSK scheduler ",45496
+"shared pool","ksbcwt",45448
+"shared pool","KTFBN SGA",45104
+"shared pool","parameter blocks",43176
+"shared pool","reset parameter blocks",43176
+"shared pool","java static objs",43056
+"shared pool","LGWR per strand PIC array",42240
+"shared pool","kswl sctxt",42016
+"shared pool","TEMP UNDO STAT INFO",41472
+"shared pool","ksasga.ksasgmsgqst",40960
+"shared pool","KTMC hash latches",40960
+"shared pool","KTMB CR Buf latches",40960
+"shared pool","KTMCsrchlatches",40960
+"shared pool","KTMSJ latches",40960
+"shared pool","zafwctx",40608
+"shared pool","ENQUEUE STATS",40392
+"shared pool","kgnfs chtab",40296
+"shared pool","file # translation table",40064
+"shared pool","ktgCircBuf:MinActScn Trc",40032
+"shared pool","KGKP randnum",40000
+"shared pool","KGKP randnum shadow",40000
+"shared pool","kebm slave descriptors",39424
+"shared pool","x$rule_set",39208
+"shared pool","latch where range",38944
+"shared pool","kglsim size of pinned mem",38896
+"shared pool","kglsim size of unpinned m",38896
+"shared pool","kdlwss",38640
+"shared pool","kjci objects freelist",38400
+"shared pool","pesom.c:Global",37296
+"shared pool","444.kgght",36784
+"shared pool","441.kgght",36784
+"shared pool","438.kgght",36784
+"shared pool","333.kgght",36784
+"shared pool","426.kgght",36784
+"shared pool","1105.kgght",36784
+"shared pool","423.kgght",36784
+"shared pool","435.kgght",36784
+"shared pool","432.kgght",36784
+"shared pool","429.kgght",36784
+"shared pool","KSRMFV2 State Object",36568
+"shared pool","distributed_transactions-",35912
+"shared pool","IM ADG GLB",35672
+"shared pool","ASM SR state object",35224
+"shared pool","KTMSJ Heaps",34816
+"shared pool","KSQ event description",34768
+"shared pool","KTCN: Row Change Segmente",34640
+"shared pool","UNDO INFO HASH",34624
+"shared pool","Closed Thread SCN Bitvec",33792
+"shared pool","kcrfa structures",33440
+"shared pool","pesldT03_Instance",33080
+"shared pool","LGWR-network Server info",33040
+"shared pool","IM segment base objn arra",32792
+"shared pool","KSK PDB IO stats ptr",32792
+"shared pool","kpoxcAppContSG",32776
+"shared pool","ksdhng: cbuf",32768
+"shared pool","poisoned memory",32768
+"shared pool","kghmpt sp records",32768
+"shared pool","KSIPC ASPC InstMap",32768
+"shared pool","sga blobs",32768
+"shared pool","kghmpt jp records",32768
+"shared pool","SQLK",32384
+"shared pool","1:kngisga",32152
+"shared pool","ksdhng: blkers cache",32112
+"shared pool","State object subpools",32000
+"shared pool","sched job slv",31904
+"shared pool","ksv slave",31888
+"shared pool","message pool context area",31512
+"shared pool","ksv reaper",29840
+"shared pool","KTCN: Obj Invalidation Se",29680
+"shared pool","kso: sched delay history",28896
+"shared pool","resize operation history",28808
+"shared pool","kfmsg",28696
+"shared pool","SGA PDB Info Array",28472
+"shared pool","KSRMA Object Descriptors",28080
+"shared pool","ksv error msg",27720
+"shared pool","AQ skiplist state object",27552
+"shared pool","kwqicaqe2kc1",27216
+"shared pool","row cache",25864
+"shared pool","recovery apply status",25320
+"shared pool","file iostats dynamic seg ",25232
+"shared pool","kcnm.c@203",24912
+"shared pool","CGS system incarn array",24864
+"shared pool","KEWS statistic metadata",24864
+"shared pool","ksunfy: is parent statist",24360
+"shared pool","Redo Transsport Destinati",24320
+"shared pool","kwsbjcAllocMem: allocate ",24168
+"shared pool","latch descriptor dynamic ",23856
+"shared pool","SGA structure for ktslgt",23600
+"shared pool","KSK plan change state seg",23352
+"shared pool","SAGE commit cache node Al",22528
+"shared pool","KSK SGA",21904
+"shared pool","KSI resource types",21632
+"shared pool","kspvpftbl",21592
+"shared pool","SGA Parameters Families",21592
+"shared pool","param hash values",21592
+"shared pool","kfklsod list",21440
+"shared pool","ksfs SGA state",21088
+"shared pool","OS proc request holder",20768
+"shared pool","RULEC",20656
+"shared pool","KTSL lat struct",20480
+"shared pool","kdfi buf child latch",20480
+"shared pool","KEBM Autotask state objec",20336
+"shared pool","kglsim count of pinned he",19584
+"shared pool","kglsim count of unpinned ",19584
+"shared pool","latch where map",19472
+"shared pool","memory transfer history",19208
+"shared pool","segmented arrays",19168
+"shared pool","JSX SGA",18456
+"shared pool","KTMC hash latch cleanup",18432
+"shared pool","redo allocation latch(es)",17600
+"shared pool","ksbcpuwtm_ctx_entry",17480
+"shared pool","KTI latch structure",17280
+"shared pool","Sync NoAffirm Pending I/O",16896
+"shared pool","KSIPC anchor",16808
+"shared pool","spfile cleanup structure",16760
+"shared pool","name-service table",16696
+"shared pool","finding tracking element ",16640
+"shared pool","monitoring column usage e",16576
+"shared pool","keomm:emptyMon_keommSg",16512
+"shared pool","ksfv subheap",16496
+"shared pool","kgnfs authp",16464
+"shared pool","change notification regis",16416
+"shared pool","ksfcd SGA state",16416
+"shared pool","change notification obj m",16416
+"shared pool","xslongops",16400
+"shared pool","ktsj_init_sga proc desc",16400
+"shared pool","kxfpsga snapshots",16384
+"shared pool","kdmadoht",16384
+"shared pool","KCN hash buckets",16384
+"shared pool","ktimextht ht",16384
+"shared pool","kdCStat hash table",16384
+"shared pool","ktilm hash table",16384
+"shared pool","IM affinity hash table",16384
+"shared pool","ksdhng: blkrs cache",16352
+"shared pool","ksdhng: wtr cache",16352
+"shared pool","ktilm hash latches",16320
+"shared pool","kdCStat latch table",16320
+"shared pool","PDB stats array",16240
+"shared pool","ksu:system-global statist",16240
+"shared pool","ksu:ksusg_emptysta",16240
+"shared pool","pending ckpt array for ti",16160
+"shared pool","jsksncb: 2",15352
+"shared pool","kfgsga",14368
+"shared pool","kjci CIC table",14336
+"shared pool","LGWR PIC request array",13904
+"shared pool","ktg hash buckets",13576
+"shared pool","SQL Memory Manager Base W",13400
+"shared pool","krvxfda-dta",13400
+"shared pool","os statistics",13104
+"shared pool","KXDBIO SGA",12896
+"shared pool","dlo fib struct",12832
+"shared pool","kcbl state objects",12800
+"shared pool","Prefetch history buffer",12744
+"shared pool","KGX rowlist",12560
+"shared pool","log_checkpoint_timeout",12360
+"shared pool","Policy Cache H",12336
+"shared pool","KTSL reco struct",12288
+"shared pool","ksfdss bitmap array",12288
+"shared pool","KTF MAPPINGS",12288
+"shared pool","KCN SCN/Time map",12288
+"shared pool","kcbl seq io throughput",12000
+"shared pool","reserved entries for all ",11968
+"shared pool","kebm slave message",11912
+"shared pool","parameter text value",11824
+"shared pool","media recovery state obje",11592
+"shared pool","sim segment hits",11520
+"shared pool","sim lru segments",11520
+"shared pool","KGLSGTYPSTA",11448
+"shared pool","sht bkt arr allo",11264
+"shared pool","ksws service object",11232
+"shared pool","qesmmaInitialize: pa_qesm",11088
+"shared pool","kspcmhdl",11032
+"shared pool","KFG SO child",11024
+"shared pool","SWRF Metric Global SGA",10880
+"shared pool","fencing reid",10768
+"shared pool","KKTIN",10744
+"shared pool","vips_package_incident_det",10560
+"shared pool","alert_ext",10560
+"shared pool","KTLI Bkt latches",10504
+"shared pool","process allocation slots",10400
+"shared pool","sort segment handle",10328
+"shared pool","KGLSGSTA",10296
+"shared pool","kgnfs htab array",10280
+"shared pool","kdfi cmap elem child latc",10240
+"shared pool","DNFS Disp comp array",10240
+"shared pool","KQF runtime defined table",10080
+"shared pool","row cache child latch",9760
+"shared pool","block iostats dynamic seg",9744
+"shared pool","KSK PDB SGA",9696
+"shared pool","knlpmclsini - alloc",9632
+"shared pool","archive_lag_target",9632
+"shared pool","xssinfo",9360
+"shared pool","flashback_marker_cache_si",9200
+"shared pool","ktcnqrow columns",9024
+"shared pool","KFIAC Fencing state objec",8720
+"shared pool","KSVR SGA",8624
+"shared pool","ksgm sga instance configu",8584
+"shared pool","krsv_notifier_cb",8440
+"shared pool","kspd run-time context",8320
+"shared pool","expression usage tracking",8320
+"shared pool","krdm mira recovery instan",8296
+"shared pool","finding tracking element",8288
+"shared pool","kfasga",8216
+"shared pool","kglsim hash table",8208
+"shared pool","primem_kfmdsg",8200
+"shared pool","kgh latchdir entries",8192
+"shared pool","ksv work msg",8192
+"shared pool","Allocate KPDB Hash Table",8192
+"shared pool","gc ping pin array",8192
+"shared pool","LGWR debug module memory",8192
+"shared pool","peshm.c:Global",8176
+"shared pool","ksz parent",8176
+"shared pool","replication session stats",8176
+"shared pool","ksu:ksunf_freelist",8064
+"shared pool","log_ext",8064
+"shared pool","stat hash values",8000
+"shared pool","330.kgght",7992
+"shared pool","sga latch table",7952
+"shared pool","ksfv instance descriptors",7936
+"shared pool","KEWS fixed SGA",7920
+"shared pool","kdnnfy : array of kdnss",7872
+"shared pool","ksunfy : SSO free list",7872
+"shared pool","X$KCNT array",7872
+"shared pool","array of sessions",7872
+"shared pool","event-class map",7696
+"shared pool","SWRF Metric DRM Table",7632
+"shared pool","am statistics",7448
+"shared pool","ktcncchildlatch",7424
+"shared pool","KKTSR",7352
+"shared pool","recov_kgqbtctx",7320
+"shared pool","AQ Slave list",7304
+"shared pool","object queue hash table d",7296
+"shared pool","kcbl statistics",7168
+"shared pool","vincident",7104
+"shared pool","diagv_incident",7104
+"shared pool","vips_pkg_incident_candida",7104
+"shared pool","kwssnmapAlloc",7072
+"shared pool","vnot_exist_incident",6912
+"shared pool","KFG state obj",6736
+"shared pool","State object pools",6720
+"shared pool","INCIDENT",6528
+"shared pool","kpummst global in the SGA",6448
+"shared pool","ksb action records",6360
+"shared pool","HM_FINDING",6144
+"shared pool","ket (AutoTask) SGA",6144
+"shared pool","cp connection",6040
+"shared pool","HM Hang Stats",6016
+"shared pool","vproblem",5952
+"shared pool","KSK PDB SGA kskcgmetric",5888
+"shared pool","SGA Deferred Parameter Ta",5864
+"shared pool","vproblem2",5760
+"shared pool","sim segment num bufs",5760
+"shared pool","procs_kfgbsg",5720
+"shared pool","SWRF Metric RRM Table",5664
+"shared pool","kcbi io desc",5632
+"shared pool","vproblem1",5568
+"shared pool","kwstxnInitSga: tspl_kwsmc",5520
+"shared pool","KTCNQROW colnames",5504
+"shared pool","11G QMN so",5416
+"shared pool","vproblem_int",5376
+"shared pool","KTCN: Hash Table Segmente",5328
+"shared pool","KSGL anchor",5304
+"shared pool","vproblem_lastinc",5184
+"shared pool","kebm slave reply",5168
+"shared pool","kgnfs ctab array",5160
+"shared pool","sim trace buf",5144
+"shared pool","pso child tracebuf ptrs",5120
+"shared pool","logout storm management",5120
+"shared pool","processes",5120
+"shared pool","list",5120
+"shared pool","pmon map array",5120
+"shared pool","kwqmncini-tbl",5080
+"shared pool","OS file lock",5072
+"shared pool","KCB buffer wait statistic",5032
+"shared pool","I/O stat latches",4960
+"shared pool","jsksncb: 6",4872
+"shared pool","ksfd: consumer group i/o ",4864
+"shared pool","KTUR HIST INFO",4840
+"shared pool","Service-level ID trace se",4816
+"shared pool","Transportable DB Converte",4808
+"shared pool","HM_RUN",4800
+"shared pool","KKTDF",4728
+"shared pool","invalid low rba queue",4608
+"shared pool","DDE_USER_ACTION_PARAMETER",4608
+"shared pool","Checkpoint queue",4608
+"shared pool","SGA cascade list",4504
+"shared pool","parameter value memory",4496
+"shared pool","Log Archive Config Contex",4488
+"shared pool","buffer_pool_desc_array",4480
+"shared pool","SGA umbrella cascade map ",4480
+"shared pool","KFK SGA",4448
+"shared pool","vhm_run",4416
+"shared pool","HM_RECOMMENDATION",4416
+"shared pool","emon srv array",4400
+"shared pool","jsksncb:59",4336
+"shared pool","ASM rollback operations",4272
+"shared pool","ksbsa pointer array",4248
+"shared pool","RTA read control file ind",4224
+"shared pool","column vectors in finding",4160
+"shared pool","modification hash table e",4160
+"shared pool","SWRF Alerted Metric Metad",4160
+"shared pool","Sort Segment extent descr",4160
+"shared pool","KTTE TS Info",4160
+"shared pool","joxs heap",4152
+"shared pool","xscalc",4144
+"shared pool","KTTE File Info",4144
+"shared pool","AQ coordinator job list",4144
+"shared pool","kkj jobq  work items",4144
+"shared pool","Sort Segment file descrip",4128
+"shared pool","KTMSJ latch cleanup",4112
+"shared pool","kwqmncal: allocate buffer",4112
+"shared pool","kdmgdFreeHTQueue",4112
+"shared pool","cinfo_kfnvsgasmb",4104
+"shared pool","kfkhsh_kfdsg",4104
+"shared pool","kfkid hash",4104
+"shared pool","namhsh_kfdsg",4104
+"shared pool","qmn tasks",4104
+"shared pool","dpslut_kfdsg",4096
+"shared pool","keomgNotify 1:descriptor ",4096
+"shared pool","local undo segment bit ve",4096
+"shared pool","dev2node map",4096
+"shared pool","grplut_kfgsg",4096
+"shared pool","kdmadohtincar",4096
+"shared pool","IPS_PACKAGE",4032
+"shared pool","threshold alert structure",4032
+"shared pool","KTU avail cache",4032
+"shared pool","jsksncb: 4",4032
+"shared pool","vadr_control",4032
+"shared pool","IMCDT Mgmt",4016
+"shared pool","IP acl table h",4016
+"shared pool","clear orls state object",4016
+"shared pool","name-service recovery",4016
+"shared pool","pesom.c:Object",4016
+"shared pool","ksir State Object",4016
+"shared pool","object lock state object",4016
+"shared pool","alert threshol",4016
+"shared pool","KSFQ buffer pool",4016
+"shared pool","KKKI consumer ",4016
+"shared pool","kerpi:heap",4016
+"shared pool","KTCN: query inv Segmented",4016
+"shared pool","quiescing session",4016
+"shared pool","Exadirect acl ",4016
+"shared pool","kso req alloc",4016
+"shared pool","Client ID trace settings",4016
+"shared pool","KTSJ subheap",4016
+"shared pool","KEWS statistic maps",4008
+"shared pool","PMON blockers",4000
+"shared pool","jsksncb: 3",4000
+"shared pool","Sort Segment descriptors",3944
+"shared pool","SWRF Metric RBSM struct",3936
+"shared pool","kwsbgini: vmPool_kwsbgsgn",3928
+"shared pool","kqaq_req",3920
+"shared pool","property service SO",3888
+"shared pool","change tracking state cha",3888
+"shared pool","cp cmon array",3848
+"shared pool","KEWS aggregation objs",3848
+"shared pool","vinc_meter_info",3840
+"shared pool","key vector",3760
+"shared pool","sched job queue",3760
+"shared pool","analytic workspace",3760
+"shared pool","Backup Appliance state ch",3760
+"shared pool","ASM map operations",3760
+"shared pool","ASM kfk state object",3760
+"shared pool","KWQDL child latches",3648
+"shared pool","DFW_PURGE",3648
+"shared pool","PROBLEM",3648
+"shared pool","vips_file_copy_log",3648
+"shared pool","vpdb_problem",3648
+"shared pool","temp lob duration state o",3632
+"shared pool","plugin datafile array",3616
+"shared pool","ksfd: file i/o stats poin",3536
+"shared pool","Big SQL Shared Memory SO",3528
+"shared pool","KFM state obj",3504
+"shared pool","statement queuing",3504
+"shared pool","ASMCMD BG process",3504
+"shared pool","log_simultaneous_copies",3456
+"shared pool","KTI latches",3456
+"shared pool","vips_pkg_file",3456
+"shared pool","ksm pdb struc",3400
+"shared pool","KTMA jlatches",3360
+"shared pool","KTMA sort latches",3360
+"shared pool","KTMA space latches",3360
+"shared pool","HM RSLN RC",3328
+"shared pool","INC_METER_SUMMARY",3264
+"shared pool","ADR_CONTROL",3264
+"shared pool","bloom filter",3248
+"shared pool","kcfis state object",3248
+"shared pool","ts encryption global key ",3216
+"shared pool","ts encryption key afn rev",3208
+"shared pool","ksfd: block i/o stats poi",3200
+"shared pool","ksfdsscloneinfo allocatio",3200
+"shared pool","dbf io stats",3200
+"shared pool","KSK Redo session info",3160
+"shared pool","PX QC msg stats",3128
+"shared pool","PX server msg stats",3128
+"shared pool","emon con array",3120
+"shared pool","SHRINK STAT",3088
+"shared pool","KXFR Psuedo Hash Array fo",3072
+"shared pool","HM_MESSAGE",3072
+"shared pool","INC_METER_INFO",3072
+"shared pool","vips_package_history",3072
+"shared pool","AWR Table Info (KEW layer",3048
+"shared pool","KSI resource reuse count",3000
+"shared pool","KSI resource miss count",3000
+"shared pool","RMAN wallet access state ",2992
+"shared pool","ASM KFFD SO",2992
+"shared pool","active checkpoint queue e",2992
+"shared pool","XS state object handle",2992
+"shared pool","resumable",2992
+"shared pool","cp pool array",2984
+"shared pool","KXFR Hash Array latches a",2944
+"shared pool","KEWS statistic name",2936
+"shared pool","temporary foreign ref",2920
+"shared pool","SGA structure for kelr",2912
+"shared pool","reservation state object",2888
+"shared pool","IPS_PROGRESS_LOG",2880
+"shared pool","vips_package_file",2880
+"shared pool","EM_DIAG_JOB",2880
+"shared pool","KSXP test table columns d",2880
+"shared pool","IPS_PACKAGE_HISTORY",2880
+"shared pool","IPS_CONFIGURATION",2880
+"shared pool","dir_ext",2880
+"shared pool","DDE_USER_ACTION_DEF",2880
+"shared pool","DFW_PURGE_ITEM",2880
+"shared pool","PDB_SPACE_MGMT",2880
+"shared pool","KPDBE SGA Tag Id Mapping ",2856
+"shared pool","ksoreqholder latches",2816
+"shared pool","Expression usage element ",2816
+"shared pool","KTPR HIST TB",2808
+"shared pool","kss unit test",2784
+"shared pool","kwsoptSGAINfy:optlist",2752
+"shared pool","name-service request",2736
+"shared pool","Online Datafile Move sess",2736
+"shared pool","ksir PrivOp State Object",2736
+"shared pool","ASM scan context",2736
+"shared pool","ASM generic network state",2736
+"shared pool","cp srv array",2736
+"shared pool","name-service entry",2736
+"shared pool","block media rcv state obj",2736
+"shared pool","ksmd unit test 1",2736
+"shared pool","kghrcx latches",2720
+"shared pool","kglsim latch area",2720
+"shared pool","kglsim alloc latch area",2720
+"shared pool","kglsim used list arr",2720
+"shared pool","EM_TARGET_INFO",2688
+"shared pool","EM_USER_ACTIVITY",2688
+"shared pool","INC_METER_CONFIG",2688
+"shared pool","relmd_ext",2688
+"shared pool","KQF optimizer stats table",2680
+"shared pool","event classes",2672
+"shared pool","KSIPCASPC SGA",2672
+"shared pool","kwsbgini-actvmPooltab_kws",2640
+"shared pool","signature element table",2640
+"shared pool","kwscSGAInitNfy: flst_kwsm",2640
+"shared pool","handoff",2632
+"shared pool","DISPATCHERS INFO",2632
+"shared pool","temporary table lock",2632
+"shared pool","ksbxic target obj",2608
+"shared pool","populate state object",2584
+"shared pool","Context of deferred reuse",2560
+"shared pool","kdfi hash bucket child la",2560
+"shared pool","DNFS Disp comp array coun",2560
+"shared pool","pmon slaves array",2560
+"shared pool","Sql control element child",2560
+"shared pool","SHARED SERVERS INFO",2544
+"shared pool","grptab_kfgsg",2504
+"shared pool","SWRF Metric ksuTimebuf",2504
+"shared pool","SWRF Metric WCTimebuf",2504
+"shared pool","DDE_USER_ACTION",2496
+"shared pool","vincident_file",2496
+"shared pool","PICKLEERR",2496
+"shared pool","vtest_exists",2496
+"shared pool","ksvr msg cache",2480
+"shared pool","dbcomp session",2480
+"shared pool","nonlogged block cache wri",2480
+"shared pool","kwsbgini-fmPool_kwsbgsgn",2464
+"shared pool","KEBM SGA struct for Autot",2448
+"shared pool","ksb cic process list",2440
+"shared pool","ksb process so list",2440
+"shared pool","kfiac_sg",2432
+"shared pool","kcbi memory desc",2424
+"shared pool","file # to first dba, exte",2416
+"shared pool","gc granule chunks",2400
+"shared pool","KTU latch cleanup",2400
+"shared pool","post stats",2368
+"shared pool","KMMSGPDBSA",2360
+"shared pool","cross-platform compliance",2336
+"shared pool","VIEW",2304
+"shared pool","INC_METER_PK_IMPTS",2304
+"shared pool","PDB_PROBLEM",2304
+"shared pool","IPS_PACKAGE_UNPACK_HISTOR",2304
+"shared pool","vproblem_bucket_count",2304
+"shared pool","INC_METER_IMPT_DEF",2304
+"shared pool","kfnvsgasmbs",2304
+"shared pool","IPS_FILE_COPY_LOG",2304
+"shared pool","KEWR PDB SGA - UMF MDB En",2288
+"shared pool","enqueue state object",2240
+"shared pool","KTTE File Cache",2184
+"shared pool","KKJ SGA",2168
+"shared pool","session migration enqueue",2160
+"shared pool","ksbtnfy: infrequent actio",2128
+"shared pool","INCCKEY",2112
+"shared pool","IPS_PACKAGE_INCIDENT",2112
+"shared pool","DFW_CONFIG_ITEM",2112
+"shared pool","IPS_FILE_METADATA",2112
+"shared pool","vproblem_bucket",2112
+"shared pool","SWEEPERR",2112
+"shared pool","IPS_REMOTE_PACKAGE",2112
+"shared pool","vips_file_metadata",2112
+"shared pool","vproblem_bucket1",2112
+"shared pool","INCIDENT_FILE",2112
+"shared pool","v_nfcinc",2112
+"shared pool","HM_INFO",2112
+"shared pool","ksunfy: pdb counts segmen",2104
+"shared pool","KSN WaitID",2080
+"shared pool","KGI Session State",2080
+"shared pool","kghrcx RO hash chain",2064
+"shared pool","KTMSJ free lists ptrs",2048
+"shared pool","ksuplsb: plsql call stack",2048
+"shared pool","Banner Storage",2048
+"shared pool","ksim cached group entry s",2048
+"shared pool","ksws service hash table b",2048
+"shared pool","PARAMETER TABLE",2048
+"shared pool","LISTEN ADDRESS TABLE",2048
+"shared pool","global container timeout ",2048
+"shared pool","LISTEN END-POINT TABLE",2048
+"shared pool","sga listelement",2048
+"shared pool","KESTB existence bitvec se",2048
+"shared pool","DISPATCHER CONFIG TABLE",2048
+"shared pool","KKBTD",2032
+"shared pool","kwrsnfy: kwrsoe",2024
+"shared pool","pesom.c:subheap ds array",2024
+"shared pool","KTA latches",2024
+"shared pool","IPS_PACKAGE_FILE",1920
+"shared pool","ADR_CONTROL_AUX",1920
+"shared pool","vshowincb",1920
+"shared pool","vshowincb_i",1920
+"shared pool","pesom.c:latch array",1920
+"shared pool","HM_FDG_SET",1920
+"shared pool","DFW_PATCH_ITEM",1920
+"shared pool","vshowcatview",1920
+"shared pool","array for shared redo blo",1920
+"shared pool","kwslbSGAData",1872
+"shared pool","kcrlflcr: FLC root",1832
+"shared pool","kea advisor definition ca",1768
+"shared pool","KTC latches",1760
+"shared pool","KTMPJ Priv latches",1760
+"shared pool","KTL latches",1760
+"shared pool","KTU lat struct",1760
+"shared pool","KTMPJ latches",1760
+"shared pool","KTMC latches",1760
+"shared pool","KTMB latches",1760
+"shared pool","vips_package_main_problem",1728
+"shared pool","VIEWCOL",1728
+"shared pool","qmtb_init_data",1728
+"shared pool","v_incfcount",1728
+"shared pool","DFW_PATCH_CAPTURE",1728
+"shared pool","v_actinc",1728
+"shared pool","v_inc_meter_info_problem",1728
+"shared pool","DFW_CONFIG_CAPTURE",1728
+"shared pool","State object sizes",1680
+"shared pool","MTTR advisory context",1648
+"shared pool","kglsim recovery area",1632
+"shared pool","qmkmProtocol:qmdpsg",1600
+"shared pool","keommDbopListNotify table",1600
+"shared pool","kdmadohtlatc",1600
+"shared pool","kzscnfy: 3",1600
+"shared pool","AQ: Message cache state o",1600
+"shared pool","vem_user_actlog1",1536
+"shared pool","PQ/BizCard",1536
+"shared pool","DDE_USER_INCIDENT_TYPE",1536
+"shared pool","KSI resource hash masks",1536
+"shared pool","vips_package_size",1536
+"shared pool","v_actprob",1536
+"shared pool","v_ipsprbcnt",1536
+"shared pool","vips_package_main_int",1536
+"shared pool","DDE_USER_INCIDENT_ACTION_",1536
+"shared pool","Cleanup state objects",1536
+"shared pool","v_inccount",1536
+"shared pool","vem_user_actlog",1536
+"shared pool","v_swperrcount",1536
+"shared pool","v_ipsprbcnt1",1536
+"shared pool","ADR_INVALIDATION",1536
+"shared pool","KEWS External IDs",1536
+"shared pool","Active Session History - ",1528
+"shared pool","SGA structure for KPON kp",1528
+"shared pool","KTMA jlatch cleanup",1512
+"shared pool","KCB incremental ckpt entr",1496
+"shared pool","keswxNotify:tabRwsStatGro",1496
+"shared pool","KTCTSNL subheaps",1496
+"shared pool","rules engine aggregate st",1480
+"shared pool","ksunfy : array of SSO fre",1480
+"shared pool","ENQUEUE FREELISTS",1472
+"shared pool","ket_nfy:iter task alloc",1464
+"shared pool","KGLNA",1448
+"shared pool","object level stat table",1440
+"shared pool","kkae edition name cache",1408
+"shared pool","krsoproc",1400
+"shared pool","PX list of chunk lists",1400
+"shared pool","dbkplssga",1400
+"shared pool","ksb ci process list (each",1368
+"shared pool","PX QC deq stats",1368
+"shared pool","PX server deq stats",1368
+"shared pool","kdlxdup swappl",1360
+"shared pool","krssrtt",1360
+"shared pool","ams_xaction",1344
+"shared pool","KCB tablespace encryption",1320
+"shared pool","KTU latches",1320
+"shared pool","dispatcher rate",1312
+"shared pool","KPDB latch structure",1280
+"shared pool","sim_knlasg",1280
+"shared pool","qesbl old rows",1280
+"shared pool","kkj jobq slave descriptor",1280
+"shared pool","kzxinfy:Child latches",1280
+"shared pool","enqueue_hash_chain_latche",1280
+"shared pool","session idle latches",1280
+"shared pool","client/application info l",1280
+"shared pool","ksuloi: child latches for",1280
+"shared pool","kglPdbDebugType",1272
+"shared pool","kponfy",1272
+"shared pool","process count for each CI",1224
+"shared pool","standby event stats",1216
+"shared pool","kebmnfy:pdb status array ",1208
+"shared pool","kzekm PDB status check in",1208
+"shared pool","dbkea msgs",1200
+"shared pool","ksws java patching contex",1192
+"shared pool","Securefile fast space usa",1176
+"shared pool","KTMA Space latch cleanup",1176
+"shared pool","KQFUTTAB COLS",1152
+"shared pool","Pre-Warm Initialized Seti",1152
+"shared pool","kkcnecqnsg info",1152
+"shared pool","kglPdbDebugNsp",1144
+"shared pool","database creation languag",1136
+"shared pool","qksceAllocateSga:ce",1128
+"shared pool","PX subheap",1112
+"shared pool","gwm_sga_notifier ",1112
+"shared pool","krvxfda-dka",1088
+"shared pool","PX scan rate stats",1080
+"shared pool","SQL Workarea Histogram",1056
+"shared pool","kstm drifts table",1048
+"shared pool","jsksncb:62",1040
+"shared pool","kzekm rsafipspath",1032
+"shared pool","file queue pointers",1024
+"shared pool","kfmdsg",992
+"shared pool","kdlxdup derztc",960
+"shared pool","latches for protecting ws",960
+"shared pool","latches for protecting fs",960
+"shared pool","obj stats hash table",960
+"shared pool","msg Q child latches",896
+"shared pool","LGWR PIC",896
+"shared pool","sess Q child latches",896
+"shared pool","done Q child latches",896
+"shared pool","Redo Transmit Queue Descr",864
+"shared pool","Undo Meta Data",864
+"shared pool","Real-Time ADDM control st",840
+"shared pool","pmon sga",832
+"shared pool","KSFV SGA",832
+"shared pool","ksupd SQL Context",792
+"shared pool","ksacm service obj array",792
+"shared pool","dso->mds_kdlidso",768
+"shared pool","ksunfy: nodes of hierarch",760
+"shared pool","sim cache nbufs",720
+"shared pool","sim cache sizes",720
+"shared pool","enque hash chain latch re",704
+"shared pool","ksmplsctx",680
+"shared pool","SGA Param Source Table",680
+"shared pool","kspvpfbv",680
+"shared pool","kscx capability table",672
+"shared pool","KYWM SGA",664
+"shared pool","KPDBFL SGA",664
+"shared pool","jsksncb: 9",656
+"shared pool","kcrfw_slave_group_initall",656
+"shared pool","PG latch table",640
+"shared pool","kscdnfyinitnext",632
+"shared pool","ktfa dynamic SGA allocati",632
+"shared pool","kscdnfyinitprev",632
+"shared pool","joxs struct",600
+"shared pool","set_descriptor_array",576
+"shared pool","kglsim sga",576
+"shared pool","system default language h",568
+"shared pool","kss global so cache",552
+"shared pool","kghrcx recovery structure",544
+"shared pool","kzsrs filename",536
+"shared pool","Client ID trace setting h",536
+"shared pool","Service-level trace setti",536
+"shared pool","dbgefgHtInit-1",528
+"shared pool","HM VFY TRCFIL",520
+"shared pool","PDB wallet status",520
+"shared pool","PRE_11g UNDOSEG DROP BITV",520
+"shared pool","ssethsh_kfdsvsg",520
+"shared pool","KTMB CR Buf latch cleanup",512
+"shared pool","KTMCsrchlatclnup",512
+"shared pool","X$KSVII table",512
+"shared pool","IUT Hash Table Base",512
+"shared pool","Monitor Modification Hash",512
+"shared pool","dso->iods_kdlidso",512
+"shared pool","kpondsg emon info",512
+"shared pool","X$KSVIT table",512
+"shared pool","trace_knlasg",504
+"shared pool","kdmadohtlatrec",480
+"shared pool","KKJ WRK LAT",480
+"shared pool","kebm action descriptors",480
+"shared pool","latches for protecting ls",480
+"shared pool","KTC latch cleanup",480
+"shared pool","LISTEN ADDRESS ENTRY",464
+"shared pool","kzxiIniSGA:Late binding D",448
+"shared pool","SGA structure for KPON ks",440
+"shared pool","kkcnesg info",440
+"shared pool","quiesce system context",440
+"shared pool","Processor group descripto",432
+"shared pool","koh dur heap",424
+"shared pool","trace buf hdr xtend",416
+"shared pool","kodosgi kopfdo",416
+"shared pool","kglsim free heap list",408
+"shared pool","kfnvsga",408
+"shared pool","KTLI Parent Bkt LC",408
+"shared pool","kglsim free obj list",408
+"shared pool","channel sga anchor",400
+"shared pool","Array of cached attr",400
+"shared pool","ksevn window",400
+"shared pool","spilled over messages",400
+"shared pool","Global Context Heap descr",400
+"shared pool","kelt translation table",384
+"shared pool","KTMPJ latch cleanup",384
+"shared pool","KYWM CROSS INSTANCE",384
+"shared pool","kwsoptSGAINfy:inactive",376
+"shared pool","SGA structure for KWQDL h",376
+"shared pool","kwsoptSGAINfy:uncached",376
+"shared pool","kxfpSO q freelists",368
+"shared pool","kpscad: kpscscon",368
+"shared pool","kxfpSO qref freelists",368
+"shared pool","kjxgrgctx SGA",368
+"shared pool","KEWS sysstat values",360
+"shared pool","slave class sga anchor",360
+"shared pool","pool srv hash sbuckets",360
+"shared pool","KKDLP SGA Property Tables",360
+"shared pool","KSK PDB IO stat per pdb",352
+"shared pool","Prefetch history buffer a",352
+"shared pool","latch classes",352
+"shared pool","PLS cca hp desc",352
+"shared pool","PLS chunk",352
+"shared pool","KTCNQROW colname ptrs",344
+"shared pool","kcrfw_slave_queue_init: t",336
+"shared pool","KEBM autotask control arr",336
+"shared pool","jsksncb:57",320
+"shared pool","kwsbgcdsjini-kwsbgjta",320
+"shared pool","MinActScn Array",320
+"shared pool","pool srv list",320
+"shared pool","ksdhng: cache history",320
+"shared pool","KSK PDB SGA kskpdbmetric",320
+"shared pool","change tracking DBA latch",320
+"shared pool","KTLI Log Hash Table",312
+"shared pool","Wait event pointers",312
+"shared pool","kzekm heap descriptor",304
+"shared pool","namhsh_kfgsg",296
+"shared pool","kelr system metrics table",296
+"shared pool","osp pool handles",296
+"shared pool","branch so",296
+"shared pool","KSI Indexes",288
+"shared pool","kfdsga",288
+"shared pool","shadow lost write work bl",288
+"shared pool","policy hash table descrpt",280
+"shared pool","KGFM vsga",280
+"shared pool","kso req alloc heapds",280
+"shared pool","krdm mira information arr",272
+"shared pool","SGA structure for AWR (KE",264
+"shared pool","srshsh_kfnvsg",264
+"shared pool","dgmhsh_kfnvsg",264
+"shared pool","ktud-usd hash table",264
+"shared pool","qesmmaInitialize: ta_qesm",264
+"shared pool","IM CAGLB",264
+"shared pool","qesmmaInitialize: ia_qesm",264
+"shared pool","heap_kdfisga",256
+"shared pool","top_proc_untunable",256
+"shared pool","dbkgcpsga",256
+"shared pool","krvxlctx",256
+"shared pool","HM PC Rank",256
+"shared pool","KCB Table Scan Bitmap",256
+"shared pool","ksipc gsm xrccm",256
+"shared pool","highest_untunable",256
+"shared pool","Sql control element free ",256
+"shared pool","PX subheap desc",256
+"shared pool","ksfd I/O slave ctx",256
+"shared pool","broker globals",248
+"shared pool","KKJ SHRD WRQS",240
+"shared pool","obj hash table pointers",240
+"shared pool","KSRPC I/O Stat array",240
+"shared pool","event list to post commit",240
+"shared pool","ksleid alloc",240
+"shared pool","knlsg",240
+"shared pool","pesom.c: Pesom_Global_Hea",232
+"shared pool","DBWR event stats array",232
+"shared pool","peshm.c: Global_Sub_Heap ",232
+"shared pool","pesom.c: Global_Sub_Heap ",232
+"shared pool","KUPP subheap desc",232
+"shared pool","kdlwl_sga_subheap",232
+"shared pool","qksbgCreateSystemEnv: qks",232
+"shared pool","Reset Parameter Handle",232
+"shared pool","KSIPC AM MDT",224
+"shared pool","kghifx descriptors",224
+"shared pool","dbgdInitEventGrp: eventGr",216
+"shared pool","ksunfy: instance statisti",208
+"shared pool","heap_kfsg",208
+"shared pool","ksdhng: cache ctx",208
+"shared pool","PDB inst stats array",208
+"shared pool","trace buffer header array",208
+"shared pool","SGA Non-Inheritable PDB P",200
+"shared pool","sim trace buf context",200
+"shared pool","rules engine context",200
+"shared pool","KSK OSS PLAN",200
+"shared pool","tablespace encryption key",200
+"shared pool","fixed allocation callback",200
+"shared pool","KSRMF anchor",200
+"shared pool","KSWL anchor",200
+"shared pool","ksu:stats_freelist_array",192
+"shared pool","ksim client list",192
+"shared pool","starting comp sizes snaps",192
+"shared pool","KTMC latch cleanup",192
+"shared pool","KPDB Hash Table Latches",192
+"shared pool","KEWS PDB System Stat valu",192
+"shared pool","KTMB latch cleanup",192
+"shared pool","KSGL Latch Groups",192
+"shared pool","mga fixvar info",192
+"shared pool","ksfv subheap descriptor",184
+"shared pool","KSIR SGA",184
+"shared pool","kwqmncini-stat",176
+"shared pool","kralastcomp",176
+"shared pool","SAGE commit cache Allocat",176
+"shared pool","plis struct",176
+"shared pool","log file size history arr",168
+"shared pool","kebm slave pool descripto",168
+"shared pool","SWRF Metric TMM Table",168
+"shared pool","ktsj_init_sga task stat",168
+"shared pool","KTPR SUBHEAP",168
+"shared pool","incr ckpt write count arr",168
+"shared pool","sot->data_kdliso",168
+"shared pool","ksupd latch recovery",168
+"shared pool","IM PJGLB",168
+"shared pool","KGLSGTYPIDX",160
+"shared pool","x$ksmfs table",160
+"shared pool","Role(rg) graph heap",160
+"shared pool","PARALLEL T RECO LATCH",160
+"shared pool","knstoggall_knstsga",160
+"shared pool","kzsc sga heap",160
+"shared pool","Key Management heap",160
+"shared pool","Policy Cache Heap descrpt",160
+"shared pool","Label Cache Heap descrptr",160
+"shared pool","zlllab Group Tree Heap De",160
+"shared pool","AWR View Info (KEW layer)",160
+"shared pool","ksu:ksusg_emptyinfo",160
+"shared pool","hot latch diagnostics",160
+"shared pool","SGA structure for KPOND k",160
+"shared pool","Role(rs) graph heap",160
+"shared pool","Role(ud) graph heap",160
+"shared pool","peshm.c:latch",160
+"shared pool","kzxssuf heap",160
+"shared pool","Read Only Database Accoun",160
+"shared pool","diag fixed SGA",152
+"shared pool","global container context",152
+"shared pool","KGLPDBSG",144
+"shared pool","kkzias",144
+"shared pool","kcrfw_slave_phase_initall",144
+"shared pool","KGLSGNSPIDX",144
+"shared pool","dbwr actual working sets ",144
+"shared pool","KGSKI scheduler heap 2 de",136
+"shared pool","kecuNotifier: alloc subhe",136
+"shared pool","kglsim latches",136
+"shared pool","KGSKI scheduler heap 1 de",136
+"shared pool","kexsvAllocFeatureUsageHea",136
+"shared pool","Security Class heap",136
+"shared pool","kdmfsdwrheap",136
+"shared pool","kcnm.c@206",136
+"shared pool","kcnibr.c@2885",136
+"shared pool","sot",136
+"shared pool","kglsim alloc latches",136
+"shared pool","kdmfsdwlheap",136
+"shared pool","kgsk subheap descriptor",136
+"shared pool","ksfd SGA state",136
+"shared pool","cgidhsh_kfnvsg",136
+"shared pool","KSZ sga subheap descripto",136
+"shared pool","kdmfssgaheap",136
+"shared pool","kcnm.c@195",136
+"shared pool","kerpiAllocSgaSubHeap:desc",136
+"shared pool","KTCN global operands ht",128
+"shared pool","dbwriter coalesce bitmap",128
+"shared pool","KTCN queries hash table",128
+"shared pool","ksuloi: long op free list",128
+"shared pool","KTCNC inv ht",128
+"shared pool","ksuloi: long op used list",128
+"shared pool","sga latch bitmap",128
+"shared pool","Sql controldata element l",128
+"shared pool","Sql controlelement latch ",128
+"shared pool","KTCN global clauses  ht",128
+"shared pool","memory pool stats",128
+"shared pool","X$KSVIS table",128
+"shared pool","copy latch aux",128
+"shared pool","LISTEN END-POINT ENTRY",120
+"shared pool","PGA total",120
+"shared pool","kwsbsmStSlv: sptr for loc",112
+"shared pool","KTI pool states",112
+"shared pool","qesmmaInitialize: oa_qesm",112
+"shared pool","kebm run-once actions",112
+"shared pool","gwm_ons_info",112
+"shared pool","qesmmaInitialize:        ",112
+"shared pool","KTLI buck-fl ptrs",104
+"shared pool","kgnfs gid list",104
+"shared pool","kokcd",104
+"shared pool","Temporary RTA boundary ar",104
+"shared pool","ksb rolling migration sta",104
+"shared pool","kqlpWrntoStr:string",104
+"shared pool","SCHEDULING POLICY VECTOR",104
+"shared pool","kghpinfo min lru",96
+"shared pool","dskm rac entity id",96
+"shared pool","Auto tune undo info",96
+"shared pool","KRBMROS ANCHOR",96
+"shared pool","knlu_init_btree:init",96
+"shared pool","kcrfw_slave_barrier_inita",96
+"shared pool","VM OSD context",96
+"shared pool","krbabrAncp",96
+"shared pool","kwspNfy-1",96
+"shared pool","KSZ SGA",88
+"shared pool","SWRF Metric Instance SGA",88
+"shared pool","KTMPJ InMemEsz pools",88
+"shared pool","KTMPJ msz pools",88
+"shared pool","ksbxic dtp",88
+"shared pool","KTCTSNL freelists",88
+"shared pool","KTMPJ esz pools",88
+"shared pool","KTC txn rsrc cnt",88
+"shared pool","KTI freelists",88
+"shared pool","PARAMETER ENTRY",88
+"shared pool","KSFD Cache Hints for IO R",88
+"shared pool","KPDBE Children List",88
+"shared pool","KEBM autotask descriptors",88
+"shared pool","ksacm service root",88
+"shared pool","bcast ack latency base ar",80
+"shared pool","L2 file global fob",80
+"shared pool","AWR Flushing Error Contro",80
+"shared pool","event list array to post ",80
+"shared pool","pending bcast scn array",80
+"shared pool","DISPATCHER CONFIG ENTRY",80
+"shared pool","procs:bitvec",80
+"shared pool","KTU Recovery SGA",80
+"shared pool","KEBM MetaData of RBB in I",80
+"shared pool","kwspNfy-3",80
+"shared pool","dbwr outstanding ios per ",80
+"shared pool","X$KSFQP ANCHOR",80
+"shared pool","pspool_kfsg",80
+"shared pool","KTLI Parent DESC LC",80
+"shared pool","kpssnfy: kpsssgct",72
+"shared pool","ksws RLB SGA ctx",72
+"shared pool","kebm action context",72
+"shared pool","kdfi dsga",72
+"shared pool","HTTP fixed headers",72
+"shared pool","kglPdbDebug",72
+"shared pool","KEW PDB SGA Structure",72
+"shared pool","LISTENER_NETWORKS PARAMET",64
+"shared pool","KPDBE SGA Validation Call",64
+"shared pool","KTCN global operators",64
+"shared pool","kwsbgcsoa",64
+"shared pool","Redo Transport krsstcb Ar",64
+"shared pool","kspload:comment",64
+"shared pool","ptr to sessions under idl",64
+"shared pool","KEW Reset ID Array in Ins",64
+"shared pool","SCHEDULING POLICY TABLE",64
+"shared pool","ksdhng: cbufs",64
+"shared pool","DNFS Disp context",64
+"shared pool","INSTANCE INFO",56
+"shared pool","connection_brokers spec",56
+"shared pool","ksbxic sga",56
+"shared pool","DNFS Disp Cle q Rec",56
+"shared pool","IM SJGLB",56
+"shared pool","PX msg pool struct",56
+"shared pool","Auto BMR for File Header",56
+"shared pool","kcrlflcr: FLC logmnr sess",56
+"shared pool","Dep type array",56
+"shared pool","KTM PDB SGA",56
+"shared pool","Entity type array",56
+"shared pool","kscdnfyinithead",56
+"shared pool","kelr other metrics table",56
+"shared pool","sga dev dict",56
+"shared pool","kjxgrrr SGA",56
+"shared pool","error message file name",56
+"shared pool","knstsg",56
+"shared pool","dbgefgHtInit-2",56
+"shared pool","block_sizes_array",56
+"shared pool","KXDBIO Recovery Area",56
+"shared pool","kghrcx RO freelist header",48
+"shared pool","HM user parameter memory",48
+"shared pool","kwqmnasctx: alloc kwqmnsc",48
+"shared pool","DNFS Disp Com q Rec",48
+"shared pool","Background process state ",48
+"shared pool","qtree_kwqbsgn",48
+"shared pool","pga detail array",48
+"shared pool","qtree_kwqspqctx",48
+"shared pool","KWQDL SGA Dtc gen cleanup",48
+"shared pool","ksws listener service nam",48
+"shared pool","kghpinfo freelist",48
+"shared pool","ksmscrsas:2",48
+"shared pool","kfgbsg",48
+"shared pool","mga fixvar size",48
+"shared pool","krbfusg",48
+"shared pool","dbwriter coalesce struct ",48
+"shared pool","qtree_kwqbspse",48
+"shared pool","KWQDL SGA Ddtc gen cleanu",48
+"shared pool","KGKP sga",48
+"shared pool","kwspNfy-2",48
+"shared pool","kghmpt jp context",40
+"shared pool","arrays for shared redo bl",40
+"shared pool","sim state object",40
+"shared pool","KSFD Kernel IO outlier co",40
+"shared pool","kwsbtmCrtLatStatNode:allo",40
+"shared pool","AW SGA",40
+"shared pool","KSM SGA Slave ctx",40
+"shared pool","time manager context",40
+"shared pool","KSM Defer SGA context",40
+"shared pool","krvxmctx",40
+"shared pool","KRSF SGA",40
+"shared pool","ksm_obh_path",40
+"shared pool","kffgsg",40
+"shared pool","KCB Table Scan",40
+"shared pool","KTU SGA",40
+"shared pool","dbktb: sga ctx",40
+"shared pool","ksm_obc_path",40
+"shared pool","kghmpt sp context",40
+"shared pool","parallel kcbibr",40
+"shared pool","DNFS Disp Iss q Rec",40
+"shared pool","kjxgrvr SGA",40
+"shared pool","Prefetch client count per",40
+"shared pool","namrec_kfdsg",32
+"shared pool","ksfm state object",32
+"shared pool","kodosgi kodos",32
+"shared pool","writes stopped lock conte",32
+"shared pool","kfkrec_kfdsg",32
+"shared pool","ssetrec_kfdsvsg",32
+"shared pool","dgmrec_kfnvsg",32
+"shared pool","plwppwp:garbage handle",32
+"shared pool","kfkid hrec",32
+"shared pool","IM extent map mem",32
+"shared pool","prirec_kfmdsg",32
+"shared pool","ksq test state obj",32
+"shared pool","pool srv hash buckets",32
+"shared pool","cgidrec_kfnvsg",32
+"shared pool","plwppwp:PLW_STR_NEW_VAL_V",32
+"shared pool","dbkea msgq",32
+"shared pool","srsrec_kfnvsg",32
+"shared pool","L2 file db unique name",32
+"shared pool","ksuloi: garbage collectio",32
+"shared pool","Database type info cache ",32
+"shared pool","gc region array",32
+"shared pool","kghrcx alloc latch state",24
+"shared pool","KTC variable sga",24
+"shared pool","ksupd proc death",24
+"shared pool","dbkea sga",24
+"shared pool","writes stopped lock state",24
+"shared pool","kokcss",24
+"shared pool","kfiosg",24
+"shared pool","buffers waiting for write",24
+"shared pool","DNFS Disp cleanup ctx",24
+"shared pool","DNFS Disp spawn ctx",24
+"shared pool","SRL error information",24
+"shared pool","ORL error information",24
+"shared pool","HM SGA init var",24
+"shared pool","kdlxdup swapp",24
+"shared pool","KGSKI sga",24
+"shared pool","SGA structure for KWQDL s",24
+"shared pool","HM SGA kjzs ctx",24
+"shared pool","ksbxic chname",24
+"shared pool","SGA Obsolete Param Source",24
+"shared pool","KTMPJHT latch cleanup",24
+"shared pool","ksupd List head",24
+"shared pool","IM segment hash table mem",24
+"shared pool","KCBFLC SGA",24
+"shared pool","KSRPC I/O Stat array ptr",24
+"shared pool","ksws service hash table",24
+"shared pool","IMEXT hash table",24
+"shared pool","ksfd shared pool recovery",24
+"shared pool","KSTM SGA",24
+"shared pool","plwppwp:PLW_STR_NEW_LEN_V",16
+"shared pool","Memory for TopN Table Des",16
+"shared pool","jsksncb: 12",16
+"shared pool","kcrfwy: slaves",16
+"shared pool","listener addresses",16
+"shared pool","sga node map",16
+"shared pool","ksipc netcaps",16
+"shared pool","parallel kcbibr dbwr bitv",16
+"shared pool","kcrfw_slave_queue_init: s",16
+"shared pool","ksfs cdb mnt structs",16
+"shared pool","ksfdgfib recovery",16
+"shared pool","kfdsvsga",16
+"shared pool","generic process shared st",16
+"shared pool","diag descriptor",16
+"shared pool","ksipc gsment table",16
+"shared pool","dia* process descriptor",16
+"shared pool","dbwr suspend/resume ptr a",16
+"shared pool","UNDO INFO",16
+"shared pool","L2 enabled array",16
+"shared pool","kga sga",16
+"shared pool","kks sga",16
+"shared pool","kghpinfo bathdr",16
+"shared pool","kks cached parse errors",16
+"shared pool","KSWL LSPCIDS",16
+"shared pool","KGNFS PLDLIST head",16
+"shared pool","zasasga",16
+"shared pool","Array of TopN Table delta",16
+"shared pool","KGNFS DMLIST head",16
+"shared pool","plwspv:PLW_STR_NEW_VAL",16
+"shared pool","dbwr working sets kcbdbws",16
+"shared pool","kohsg",16
+"shared pool","IM segment gdh_metadata",16
+"shared pool","jsksncb: 7",16
+"shared pool","kramh message flag",16
+"shared pool","ksmsq SGA",16
+"shared pool","system node table",16
+"shared pool","dbwr suspend/resume array",16
+"shared pool","SGA structure for ADR lay",16
+"shared pool"," kghrcx RO latch director",16
+"shared pool","kghrcx RO batch headers",16
+"shared pool","kglPdbDebugStat",8
+"shared pool","IM MRGLB",8
+"shared pool","AWR Data Source Info (KEW",8
+"shared pool","KPDBE SGA Migrate Vld Cal",8
+"shared pool","kolfsgi: KOLF's SGA initi",8
+"shared pool","kfvacfssga",8
+"shared pool","kscdnfyinitflags",8
+"shared pool","XCT SGA",8
+"shared pool","kcbbl2df L2 disabling fla",8
+"shared pool","KGNFS PLDLIST array",8
+"shared pool","ksunfy: Reserved PSO Numa",8
+"shared pool","KTRSGA",8
+"shared pool","sim kghx free lists",8
+"shared pool","IPDDB SGA ctx",8
+"shared pool","dbwr message active flag ",8
+"shared pool","ksm_ob_path",8
+"shared pool","kscdnfyglobalflags",8
+"shared pool","DBWR array of pointers to",8
+"shared pool","kolbsgi: KOLB's SGA initi",8
+"shared pool","KEBM SGA struct (PDB) - P",8
+"shared pool","KGNFS DMLIST array",8
+"shared pool","SGA for UMF (KEUM)",8
+"shared pool","RVWR post requested array",8
+"shared pool","PGA totals ptrs",8
+"shared pool","LGWR post requested array",8
+"shared pool","DNFS Disp context arr",8
+"shared pool","kcrfwy: shutdowns",8
+"shared pool","KEWS PDB SGA",8
+"shared pool","ksunfy: in-use PSO Numa A",8
+"shared pool","kffssga",8
+"shared pool","kghpinfo ptrs",8
+"shared pool","ksmscrsas:1",8
+"shared pool","KCFIS SGA",8
+"shared pool","kzaac_vsga",8
