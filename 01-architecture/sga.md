@@ -72,6 +72,22 @@ lebo táto inštancia nevyužíva Java stored procedures ani replikáciu.
 Shared Pool (~864 MB) je najväčšia zložka Variable Size, čo zodpovedá 
 tomu, že drží library cache aj data dictionary cache.
 
+| Pool | Name | Bytes | Poznámka |
+|---|---|---|---|
+| (null) | buffer_cache | 4 043 309 056 | Skutočne využitý Buffer Cache |
+| shared pool | free memory | 516 894 336 | Nevyužitá časť Shared Pool (~57%) |
+| shared pool | SQLA | 38 909 264 | Library Cache – SQL Area (parsed príkazy) |
+| shared pool | row cache mutex | 9 019 032 | Data Dictionary Cache |
+| (null) | log_buffer | 7 737 344 | Redo Log Buffer |
+| (null) | fixed_sga | 9 038 960 | Fixed SGA |
+
+**Interpretácia:** V$SGASTAT rozbíja Shared Pool na desiatky vnútorných 
+štruktúr (spolu 1400 riadkov). Najdôležitejšie pre pochopenie architektúry: 
+"SQLA" a KGL* položky = Library Cache, "row cache" položky = Data Dictionary 
+Cache. Voľná pamäť v shared pool (~517 MB z ~906 MB) naznačuje, že 
+inštancia momentálne nie je pod väčšou záťažou.
+
+
 ### Aktuálne parametre
 
 ```sql
