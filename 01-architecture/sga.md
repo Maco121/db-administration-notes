@@ -53,6 +53,24 @@ SELECT pool, name, bytes FROM V$SGASTAT ORDER BY bytes DESC;
 najväčšia časť SGA v tomto prípade. Pre presnejší rozpad Variable Size 
 je potrebné V$SGAINFO alebo V$SGASTAT.
 
+| NAME | BYTES | RESIZEABLE |
+|---|---|---|
+| Fixed SGA Size | 9038960 | No |
+| Redo Buffers | 7737344 | No |
+| Buffer Cache Size | 4177526784 | Yes |
+| Shared Pool Size | 905969664 | Yes |
+| Large Pool Size | 16777216 | Yes |
+| Java Pool Size | 0 | Yes |
+| Streams Pool Size | 0 | Yes |
+| Shared IO Pool Size | 134217728 | Yes |
+| Maximum SGA Size | 5117049968 | No |
+
+**Interpretácia:** V$SGAINFO potvrdzuje výpočet z V$SGA - Variable Size 
+(922 746 880 B) sa presne rovná súčtu Shared Pool (905 969 664) + Large 
+Pool (16 777 216) + Java Pool (0). Java Pool a Streams Pool sú nulové, 
+lebo táto inštancia nevyužíva Java stored procedures ani replikáciu. 
+Shared Pool (~864 MB) je najväčšia zložka Variable Size, čo zodpovedá 
+tomu, že drží library cache aj data dictionary cache.
 
 ### Aktuálne parametre
 
