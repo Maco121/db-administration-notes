@@ -87,6 +87,7 @@ tomu, že drží library cache aj data dictionary cache.
 Cache. Voľná pamäť v shared pool (~517 MB z ~906 MB) naznačuje, že 
 inštancia momentálne nie je pod väčšou záťažou.
 
+Celý výstup (1400 riadkov) je uložený v [`queries/v_sgastat_full_output.csv`](../queries/v_sgastat_full_output.csv).
 
 ### Aktuálne parametre
 
